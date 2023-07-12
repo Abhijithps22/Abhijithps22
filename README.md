@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijithps.
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Mearn stack development.
-- 💞️ I’m looking to collaborate on Frontend and Backend.(Reactjs,nodejs).
+- 👀 I’m a Full stack developer with  a Bachelor degree in computer science.
+- 🌱 I’m currently working as a React frontend developer.
+- 💞️ I'm passionate about learning new skills.
 - 📫 How to reach me is abhijithabi22102001@gmail.com.
 
 <!---
